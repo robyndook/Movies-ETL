@@ -2,7 +2,6 @@
 config.py
 
 #too large
-movies_metadata.csv
 ratings.csv
 
 
